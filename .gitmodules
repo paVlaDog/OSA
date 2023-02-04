@@ -1,0 +1,12 @@
+[submodule "OSAchar-list"]
+	path = OSAchar-list
+	url = https://github.com/paVlaDog/OSAchar-list
+[submodule "OSArpg"]
+	path = OSArpg
+	url = https://github.com/paVlaDog/OSArpg
+[submodule "Quests"]
+	path = Quests
+	url = https://github.com/paVlaDog/Quests
+[submodule "webosajs"]
+	path = webosajs
+	url = https://github.com/paVlaDog/webosajs
